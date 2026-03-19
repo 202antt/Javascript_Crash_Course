@@ -107,7 +107,7 @@ condition ? "true result" : "false result";
 
 ---
 
-### 🔹 Mini Project: User Sign-Up System
+### 🔹 Mini Project: User Sign-Up System using console.log()
 
 * Created a function to:
 
@@ -150,7 +150,7 @@ condition ? "true result" : "false result";
 
 ## 🎯 Purpose
 
-This project helped me:
+Taking these notes helped me:
 
 * Build a solid foundation in JavaScript
 * Practice writing clean and readable code
